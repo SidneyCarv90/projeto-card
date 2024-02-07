@@ -9,6 +9,8 @@ function App(props) {
 
       {contacts.map((contact) => (
         <Card
+          key={contact.id}
+          id={contact.id}
           name={contact.name}
           imgURL={contact.imgURL}
           tel={contact.phone}
