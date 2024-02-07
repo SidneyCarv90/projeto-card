@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bprojeto-card%7D/static/css/main.73f186dd.css",
+    "main.js": "/%7Bprojeto-card%7D/static/js/main.642765e2.js",
+    "index.html": "/%7Bprojeto-card%7D/index.html",
+    "main.73f186dd.css.map": "/%7Bprojeto-card%7D/static/css/main.73f186dd.css.map",
+    "main.642765e2.js.map": "/%7Bprojeto-card%7D/static/js/main.642765e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73f186dd.css",
+    "static/js/main.642765e2.js"
+  ]
+}
